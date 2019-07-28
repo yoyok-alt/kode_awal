@@ -3,3 +3,5 @@ kode
 - dua
 - tiga
 - empat
+- lima
+- enam
